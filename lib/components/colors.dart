@@ -4,12 +4,16 @@ class ProjectSolidColors {
   static const Color statusBarColor = Color.fromARGB(255, 255, 255, 255);
   static const Color navBarColor = Color.fromARGB(255, 255, 255, 255);
   static const Color primaryColor = Color.fromARGB(255, 68, 4, 87);
+  static const Color accentColor = Color.fromARGB(255, 8, 111, 106);
+  static const Color surfaceColor = Color.fromARGB(255, 224, 224, 224);
   static const Color headLineTitle = Color.fromARGB(255, 40, 107, 184);
   static const Color textTitle = Color.fromARGB(255, 0, 0, 0);
+  static const Color textTitleMediumOpacity = Color.fromARGB(160, 0, 0, 0);
   static const Color scaffoldBG = Color.fromARGB(255, 255, 255, 255);
   static const Color headlinesDefColor = Color.fromARGB(255, 40, 107, 184);
   static const Color homeBannerSubTitle = Color.fromRGBO(255, 255, 255, 0.8);
   static const Color homeBannerTitle = Color.fromRGBO(255, 255, 255, 1.0);
+  static const Color dividerColor = Color.fromARGB(70, 220, 220, 220);
 }
 
 class ProjectGradients {
